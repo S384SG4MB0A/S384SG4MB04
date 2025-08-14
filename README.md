@@ -37,13 +37,12 @@ En 2024 trabajé en **Procter & Gamble** como Técnico Audiovisual, realizando a
 
 #### 📫 Cómo contactarme:
 - **Email:** sebastiangamboar@gmail.com  
-- **LinkedIn:** [Mi perfil](https://www.linkedin.com/in/TU-LINK/)  
-- **GitHub:** [Mis proyectos](https://github.com/TU-USUARIO)  
+- **LinkedIn:** [Mi perfil](www.linkedin.com/in/sebastian-gamboa-a62511224)  
+- **GitHub:** [Mis proyectos]((https://github.com/S384SG4MB0A))  
 - **QR:** Portafolio y redes  
 
 ---
 
-![Sebastián's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=radical)
 
 ---
 
@@ -52,7 +51,3 @@ En 2024 trabajé en **Procter & Gamble** como Técnico Audiovisual, realizando a
 ---
 
 
-----
-Credit: [sanket9006](https://github.com/sanket9006)
-
-Last Edited on: 23/09/2020
